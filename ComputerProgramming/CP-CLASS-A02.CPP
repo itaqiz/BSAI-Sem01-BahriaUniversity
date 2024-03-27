@@ -1,5 +1,5 @@
 // Name: Muhammad Taqui
-// Documentation Deadline: 6 May 2022 - 12:00 am
+// Deadline: 6 May 2022 - 12:00 am
 
 // Task 1: Write a C++ program to add the elements of two arrays and store the sum in a third array.
 #include<iostream>
